@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Can Li</title>
+    <link>https://can-li1128.github.io/portfolio/tags/</link>
+    <description>Recent content in Tags on Can Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://can-li1128.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bin smoothing</title>
+      <link>https://can-li1128.github.io/portfolio/tags/bin-smoothing/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/bin-smoothing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trend detection</title>
+      <link>https://can-li1128.github.io/portfolio/tags/trend-detection/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/trend-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rvest package</title>
+      <link>https://can-li1128.github.io/portfolio/tags/rvest-package/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/rvest-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment analysis</title>
+      <link>https://can-li1128.github.io/portfolio/tags/sentiment-analysis/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment lexicon</title>
+      <link>https://can-li1128.github.io/portfolio/tags/sentiment-lexicon/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/sentiment-lexicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text analysis</title>
+      <link>https://can-li1128.github.io/portfolio/tags/text-analysis/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidytext package</title>
+      <link>https://can-li1128.github.io/portfolio/tags/tidytext-package/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/tidytext-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web scraping</title>
+      <link>https://can-li1128.github.io/portfolio/tags/web-scraping/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boxplot</title>
+      <link>https://can-li1128.github.io/portfolio/tags/boxplot/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/boxplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summary report</title>
+      <link>https://can-li1128.github.io/portfolio/tags/summary-report/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/summary-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caret package</title>
+      <link>https://can-li1128.github.io/portfolio/tags/caret-package/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/caret-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iris</title>
+      <link>https://can-li1128.github.io/portfolio/tags/iris/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/iris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://can-li1128.github.io/portfolio/tags/machine-learning/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://can-li1128.github.io/portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
